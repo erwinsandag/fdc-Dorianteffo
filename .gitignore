@@ -18,3 +18,4 @@ src/fig_data_challenge/connection.py
 src/fig_data_challenge/to_landing.py 
 init_db/
 src/fig_data_challenge/utils/
+.env
