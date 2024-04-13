@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Unit Tests
+.pytest_cache/
+
+# JetBrains
+.idea/
+
+# Python stuff
+.DS_Store
+
+
+requirements.txt
+docker-compose.yml
+Dockerfile
+src/fig_data_challenge/connection.py
+src/fig_data_challenge/to_landing.py 
+init_db/
+src/fig_data_challenge/utils/
